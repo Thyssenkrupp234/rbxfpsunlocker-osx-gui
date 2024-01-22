@@ -2,6 +2,14 @@
 
 The first Roblox FPS unlocker GUI for macOS. This app works on both Intel and Apple Silicon Macs.
 
+## Features
+
+- Unlock Roblox FPS to display's refresh rate (Metal)
+- Unlock Roblox FPS infinitely*-ish* (actually 10000) (Vulkan)
+- Native app interface built with modern SwiftUI
+- Supports macOS 11.0+
+- **Soon:** Auto-install unlocker post-roblox update
+
 ## Setup
 
 Since no official build has been released yet, you need to build it yourself. Requires macOS 14.2.1 and Xcode 15.2 or later. Once I polish off the app, I will publish a release.

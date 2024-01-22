@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Index.noindex/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Debug/rbxfpsunlocker-osx-guiUITests.build/Objects-normal/arm64/rbxfpsunlocker-osx-guiUITests-master.d",
+    "diagnostics" : "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Index.noindex/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Debug/rbxfpsunlocker-osx-guiUITests.build/Objects-normal/arm64/rbxfpsunlocker-osx-guiUITests-master.dia",
+    "emit-module-dependencies" : "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Index.noindex/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Debug/rbxfpsunlocker-osx-guiUITests.build/Objects-normal/arm64/rbxfpsunlocker-osx-guiUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Index.noindex/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Debug/rbxfpsunlocker-osx-guiUITests.build/Objects-normal/arm64/rbxfpsunlocker-osx-guiUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Index.noindex/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Debug/rbxfpsunlocker-osx-guiUITests.build/Objects-normal/arm64/rbxfpsunlocker-osx-guiUITests-master.swiftdeps"
+  },
+  "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-guiUITests/rbxfpsunlocker_osx_guiUITests.swift" : {
+
+  },
+  "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-guiUITests/rbxfpsunlocker_osx_guiUITestsLaunchTests.swift" : {
+
+  }
+}

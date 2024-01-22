@@ -1,0 +1,72 @@
+{
+  "source": "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "rbxfpsunlocker-osx-gui"
+      },
+      {
+        "comment": "",
+        "key": "Unlock FPS"
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0"
+      },
+      {
+        "comment": "",
+        "key": "Built on Xcode:"
+      },
+      {
+        "comment": "",
+        "key": " v15.2 (15C500b)"
+      },
+      {
+        "comment": "",
+        "key": "Supports: "
+      },
+      {
+        "comment": "",
+        "key": "macOS: 11.0+"
+      },
+      {
+        "comment": "",
+        "key": "Build Date: "
+      },
+      {
+        "comment": "",
+        "key": "January 20th, 2024"
+      },
+      {
+        "comment": "",
+        "key": "Note: using Vulkan may break external displays."
+      },
+      {
+        "comment": "",
+        "key": "By not enabling this, FPS will be unlocked to your display's refresh rate."
+      },
+      {
+        "comment": "",
+        "key": "It is recommended to only enable this feature if FPS is not unlocked to your full refresh rate."
+      },
+      {
+        "comment": "",
+        "key": "Use Vulkan renderer -->"
+      },
+      {
+        "comment": "",
+        "key": " unlimited FPS/no fps cap"
+      },
+      {
+        "comment": "",
+        "key": "Scripting and Functionality: Lincoln Muller"
+      },
+      {
+        "comment": "",
+        "key": "App Icon: Nolan Krahn"
+      }
+    ]
+  },
+  "version": 1
+}

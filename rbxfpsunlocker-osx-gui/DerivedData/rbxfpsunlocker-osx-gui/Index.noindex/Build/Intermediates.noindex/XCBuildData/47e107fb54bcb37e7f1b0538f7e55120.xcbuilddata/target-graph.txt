@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'rbxfpsunlocker-osx-guiUITests' in project 'rbxfpsunlocker-osx-gui'
+➜ Explicit dependency on target 'rbxfpsunlocker-osx-gui' in project 'rbxfpsunlocker-osx-gui'
+Target 'rbxfpsunlocker-osx-guiTests' in project 'rbxfpsunlocker-osx-gui'
+➜ Explicit dependency on target 'rbxfpsunlocker-osx-gui' in project 'rbxfpsunlocker-osx-gui'
+Target 'rbxfpsunlocker-osx-gui' in project 'rbxfpsunlocker-osx-gui' (no dependencies)

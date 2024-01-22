@@ -1,10 +1,10 @@
 # rbxfpsunlocker-osx-gui
 
-The first Roblox FPS unlocker GUI for macOS. This script works on both Intel and Apple Silicon Macs.
+The first Roblox FPS unlocker GUI for macOS. This app works on both Intel and Apple Silicon Macs.
 
 ## Setup
 
-Since no official build has been released yet, you need to build it yourself. Requires macOS 14.2.1. Once I polish off the app, I will publish a release.
+Since no official build has been released yet, you need to build it yourself. Requires macOS 14.2.1 and Xcode 15.2 or later. Once I polish off the app, I will publish a release.
 
 *Note: you must run the app again when Roblox updates.*
 

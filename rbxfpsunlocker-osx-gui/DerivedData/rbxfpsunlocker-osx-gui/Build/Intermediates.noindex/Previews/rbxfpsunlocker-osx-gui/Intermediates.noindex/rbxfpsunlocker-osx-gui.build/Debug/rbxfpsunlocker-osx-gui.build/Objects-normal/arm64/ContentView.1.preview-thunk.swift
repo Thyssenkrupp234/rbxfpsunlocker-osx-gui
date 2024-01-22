@@ -10,7 +10,7 @@ import SwiftUI
 
 extension ListView {
     @_dynamicReplacement(for: body) private var __preview__body: some View {
-        #sourceLocation(file: "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift", line: 198)
+        #sourceLocation(file: "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift", line: 197)
         VStack {
             let current = options[currentSelection]
             ForEach(options.indices, id: \.self) { index in
@@ -39,7 +39,7 @@ extension ListView {
 
 extension CreditsView {
     @_dynamicReplacement(for: body) private var __preview__body: some View {
-        #sourceLocation(file: "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift", line: 186)
+        #sourceLocation(file: "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift", line: 185)
         VStack {
             Text(__designTimeString("#9771.[6].[0].property.[0].[0].arg[0].value.[0].arg[0].value", fallback: "Scripting and Functionality: Lincoln Muller"))
             Text(__designTimeString("#9771.[6].[0].property.[0].[0].arg[0].value.[1].arg[0].value", fallback: "App Icon: Nolan Krahn"))
@@ -70,8 +70,7 @@ extension SettingsView {
             Toggle(isOn: $revertButton, label: {
                 Text(__designTimeString("#9771.[5].[2].property.[0].[0].arg[0].value.[4].arg[1].value.[0].arg[0].value", fallback: "Revert install"))
             Text(__designTimeString("#9771.[5].[2].property.[0].[0].arg[0].value.[4].arg[1].value.[1].arg[0].value", fallback: "Changes button in home page to revert button"))
-                    .font(.footnote)
-                    .foregroundColor(Color.white)
+                .font(.footnote)
             })
             .padding(.top, __designTimeFloat("#9771.[5].[2].property.[0].[0].arg[0].value.[4].modifier[0].arg[1].value", fallback: 10.0))
         }
@@ -225,7 +224,7 @@ import struct rbxfpsunlocker_osx_gui.ListView
 
 // Support for back-deployment.
 @available(iOS 13.0, macOS 10.15, tvOS 13.0, visionOS 1.0, watchOS 6.0, *)
-struct RegistryCompatibilityProvider_line_222: SwiftUI.PreviewProvider {
+struct RegistryCompatibilityProvider_line_221: SwiftUI.PreviewProvider {
     static var previews: some SwiftUI.View {
         #if os(macOS)
         let __makePreview: () -> any SwiftUI.View = {

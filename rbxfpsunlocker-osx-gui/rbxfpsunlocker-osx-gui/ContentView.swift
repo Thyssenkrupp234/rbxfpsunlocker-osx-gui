@@ -173,8 +173,7 @@ struct SettingsView: View {
             Toggle(isOn: $revertButton, label: {
                 Text("Revert install")
             Text("Changes button in home page to revert button")
-                    .font(.footnote)
-                    .foregroundColor(Color.white)
+                .font(.footnote)
             })
             .padding(.top, 10.0)
         }

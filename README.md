@@ -2,6 +2,8 @@
 
 The first Roblox FPS unlocker GUI for macOS. This app works on both Intel and Apple Silicon Macs.
 
+This is my first ever swift/swiftUI app, feel free to make a PR to make my code better!
+
 ## Features
 
 - Unlock Roblox FPS to display's refresh rate (Metal)

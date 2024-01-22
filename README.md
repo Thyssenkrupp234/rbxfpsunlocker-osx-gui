@@ -7,7 +7,7 @@ This is my first ever swift/swiftUI app, feel free to make a PR to make my code 
 ## Features
 
 - Unlock Roblox FPS to display's refresh rate (Metal)
-- Unlock Roblox FPS infinitely*-ish* (actually 10000) (Vulkan)
+- Unlock Roblox FPS infinitely-*ish* (actually 10000) (Vulkan)
 - Native app interface built with modern SwiftUI
 - Supports macOS 11.0+
 - **Soon:** Auto-install unlocker post-roblox update

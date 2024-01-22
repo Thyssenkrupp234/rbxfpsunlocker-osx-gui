@@ -6,6 +6,189 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>AC09359B-BD90-4912-A4D5-AD97882DA237</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>68815012-4461-4ECD-A13C-AE0EEE4D356E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-rbxfpsunlocker-osx-gui-2024.01.22_11-30-18--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727644618.93684006</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>AC09359B-BD90-4912-A4D5-AD97882DA237</string>
+		</dict>
+		<key>D506105B-A4E7-4C1E-BC9F-17283BA90348</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8346FBCF-EB76-4483-8C79-5940B5BDBA7D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-rbxfpsunlocker-osx-gui-2024.01.22_11-35-49--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727644949.18466496</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>D506105B-A4E7-4C1E-BC9F-17283BA90348</string>
+		</dict>
+		<key>D6136E91-3A97-4BD3-8D77-6918F2D01287</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>52EBC4FD-4A97-4129-BB34-3A60DE07BC20</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-rbxfpsunlocker-osx-gui-2024.01.22_11-36-15--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727644975.92691398</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>D6136E91-3A97-4BD3-8D77-6918F2D01287</string>
+		</dict>
 		<key>EE42DEB3-6CF9-4930-AD58-E642FCC6C029</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -66,6 +249,67 @@
 			<string>Run rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
 			<string>EE42DEB3-6CF9-4930-AD58-E642FCC6C029</string>
+		</dict>
+		<key>F65E616E-B8F2-4B5B-9A02-0AB7C7229DDD</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4E7D8AA7-2612-4620-B041-FA5236BDFCE1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-rbxfpsunlocker-osx-gui-2024.01.22_11-31-05--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727644665.68198597</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>F65E616E-B8F2-4B5B-9A02-0AB7C7229DDD</string>
 		</dict>
 	</dict>
 </dict>

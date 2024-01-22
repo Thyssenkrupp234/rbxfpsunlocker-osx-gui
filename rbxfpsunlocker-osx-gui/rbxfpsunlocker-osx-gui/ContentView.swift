@@ -15,29 +15,29 @@ struct Option: Hashable {
 struct ContentView: View {
     @State var currentOption = 1
     @State private var useVulkan = false
+    @State private var processOutput = ""
+    
     let options: [Option] = [
         .init(title: "About", imageName: "info.circle"),
         .init(title: "Home", imageName: "house"),
         .init(title: "Settings", imageName: "gear"),
         .init(title: "Credits", imageName: "person.crop.circle.badge.checkmark"),
     ]
+
     var body: some View {
         NavigationView {
-            ListView(
-                options: options,
-                currentSelection: $currentOption
-            )
+            ListView(options: options, currentSelection: $currentOption)
             switch currentOption {
             case 0:
                 AboutView()
             case 1:
-                HomeView(useVulkan: $useVulkan)
+                HomeView(useVulkan: $useVulkan, processOutput: $processOutput)
             case 2:
                 SettingsView(useVulkan: $useVulkan)
             case 3:
                 CreditsView()
             default:
-                HomeView(useVulkan: $useVulkan)
+                HomeView(useVulkan: $useVulkan, processOutput: $processOutput)
             }
         }
     }
@@ -45,15 +45,17 @@ struct ContentView: View {
 
 struct HomeView: View {
     @Binding var useVulkan: Bool
+    @Binding var processOutput: String
+    
     var body: some View {
         VStack {
             Image("Logo")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
-                .frame(width: 150, height:150)
+                .frame(width: 150, height: 150)
             Text("rbxfpsunlocker-osx-gui")
                 .font(.largeTitle)
-            
+
             // Button to unlock FPS
             Button(action: {
                 // Run the script
@@ -63,10 +65,22 @@ struct HomeView: View {
                     let process = Process()
                     process.launchPath = "/usr/bin/osascript"
                     process.arguments = ["-e", "do shell script \"sh \(scriptPath) \(argument)\" with administrator privileges"]
+                    
+                    let outputPipe = Pipe()
+                    process.standardOutput = outputPipe
+
                     process.launch()
                     process.waitUntilExit()
+
+                    // Read the output data
+                    let outputData = outputPipe.fileHandleForReading.readDataToEndOfFile()
+                    if let outputString = String(data: outputData, encoding: .utf8) {
+                        processOutput = outputString
+                    } else {
+                        processOutput = "Error: Unable to read output."
+                    }
                 } else {
-                    print("Error: Script not found in app's bundle.")
+                    processOutput = "Error: Script not found in app's bundle."
                 }
             }, label: {
                 Text("Unlock FPS")
@@ -75,11 +89,13 @@ struct HomeView: View {
                     .foregroundColor(Color.green)
             })
             
+            // Display process output
+            Text(processOutput)
+                .foregroundColor(.green) // Customize the color if needed
+            
             Spacer()
         }
     }
-    
-    // Function to run the installer script
 }
 
 struct AboutView: View {

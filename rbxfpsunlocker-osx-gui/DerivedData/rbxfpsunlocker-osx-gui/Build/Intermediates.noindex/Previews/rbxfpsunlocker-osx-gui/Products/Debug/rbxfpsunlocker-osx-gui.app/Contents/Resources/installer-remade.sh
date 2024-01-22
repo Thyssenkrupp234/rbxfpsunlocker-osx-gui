@@ -2,6 +2,7 @@
 
 # Set the target frames per second (FPS) for Roblox
 useVulkan=$1
+targetFps=10000
 # Set the path to the Roblox application
 robloxPath="/Applications/Roblox.app"
 

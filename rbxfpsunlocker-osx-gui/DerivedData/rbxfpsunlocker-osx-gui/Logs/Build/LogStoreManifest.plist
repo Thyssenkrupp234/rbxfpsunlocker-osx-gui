@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1D2EF771-4781-471B-BDA8-5D982C732567</key>
+		<key>009B7619-BD63-44EF-874D-8DFFCABD23ED</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1D2EF771-4781-471B-BDA8-5D982C732567.xcactivitylog</string>
+			<string>009B7619-BD63-44EF-874D-8DFFCABD23ED.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -25,7 +25,7 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
+				<integer>9</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644727.61906302</real>
+			<real>727654838.69865894</real>
 			<key>timeStoppedRecording</key>
-			<real>727644727.84845805</real>
+			<real>727654839.18385398</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>1D2EF771-4781-471B-BDA8-5D982C732567</string>
+			<string>009B7619-BD63-44EF-874D-8DFFCABD23ED</string>
 		</dict>
-		<key>34C27A09-518B-4E8B-9582-AD9F1831B8F3</key>
+		<key>0CF373DC-322A-457B-A37F-2E2880E9DCF0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,133 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>34C27A09-518B-4E8B-9582-AD9F1831B8F3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>3</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644905.49073803</real>
-			<key>timeStoppedRecording</key>
-			<real>727644905.67725205</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>34C27A09-518B-4E8B-9582-AD9F1831B8F3</string>
-		</dict>
-		<key>39D79527-0087-476C-9E1F-587200DCAB81</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>39D79527-0087-476C-9E1F-587200DCAB81.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>3</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644873.61799204</real>
-			<key>timeStoppedRecording</key>
-			<real>727644874.00480795</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>39D79527-0087-476C-9E1F-587200DCAB81</string>
-		</dict>
-		<key>49316B06-FAC5-4542-A0B0-0A7865A6A661</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>49316B06-FAC5-4542-A0B0-0A7865A6A661.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644731.298599</real>
-			<key>timeStoppedRecording</key>
-			<real>727644731.53479004</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>49316B06-FAC5-4542-A0B0-0A7865A6A661</string>
-		</dict>
-		<key>4E7D8AA7-2612-4620-B041-FA5236BDFCE1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4E7D8AA7-2612-4620-B041-FA5236BDFCE1.xcactivitylog</string>
+			<string>0CF373DC-322A-457B-A37F-2E2880E9DCF0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -208,15 +82,15 @@
 			<key>signature</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644665.68208802</real>
+			<real>727653596.82818997</real>
 			<key>timeStoppedRecording</key>
-			<real>727644666.23167896</real>
+			<real>727653597.05346096</real>
 			<key>title</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>4E7D8AA7-2612-4620-B041-FA5236BDFCE1</string>
+			<string>0CF373DC-322A-457B-A37F-2E2880E9DCF0</string>
 		</dict>
-		<key>52EBC4FD-4A97-4129-BB34-3A60DE07BC20</key>
+		<key>135CDC18-3C7B-4EFD-86B7-C151F66D0958</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -225,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>52EBC4FD-4A97-4129-BB34-3A60DE07BC20.xcactivitylog</string>
+			<string>135CDC18-3C7B-4EFD-86B7-C151F66D0958.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -250,15 +124,15 @@
 			<key>signature</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644975.92696095</real>
+			<real>727656387.31667697</real>
 			<key>timeStoppedRecording</key>
-			<real>727644976.45444</real>
+			<real>727656387.99826801</real>
 			<key>title</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>52EBC4FD-4A97-4129-BB34-3A60DE07BC20</string>
+			<string>135CDC18-3C7B-4EFD-86B7-C151F66D0958</string>
 		</dict>
-		<key>5E224A9C-88B9-4FFF-AE3C-BB6E40A7711F</key>
+		<key>16392829-23FF-4470-9D81-956E82162C3D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -267,49 +141,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5E224A9C-88B9-4FFF-AE3C-BB6E40A7711F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644834.28334296</real>
-			<key>timeStoppedRecording</key>
-			<real>727644835.03535497</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>5E224A9C-88B9-4FFF-AE3C-BB6E40A7711F</string>
-		</dict>
-		<key>68815012-4461-4ECD-A13C-AE0EEE4D356E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>68815012-4461-4ECD-A13C-AE0EEE4D356E.xcactivitylog</string>
+			<string>16392829-23FF-4470-9D81-956E82162C3D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -334,15 +166,15 @@
 			<key>signature</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644618.94021404</real>
+			<real>727655109.086236</real>
 			<key>timeStoppedRecording</key>
-			<real>727644620.47472799</real>
+			<real>727655110.56992102</real>
 			<key>title</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>68815012-4461-4ECD-A13C-AE0EEE4D356E</string>
+			<string>16392829-23FF-4470-9D81-956E82162C3D</string>
 		</dict>
-		<key>7638B353-F3C4-4866-9107-86786980E01C</key>
+		<key>16A2266B-84BB-4FBE-8136-00F59E62B06F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -351,91 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7638B353-F3C4-4866-9107-86786980E01C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644737.28480399</real>
-			<key>timeStoppedRecording</key>
-			<real>727644737.48560297</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>7638B353-F3C4-4866-9107-86786980E01C</string>
-		</dict>
-		<key>7AA3E518-0EAB-4342-ADA0-15705DC0C1A6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7AA3E518-0EAB-4342-ADA0-15705DC0C1A6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644756.60906005</real>
-			<key>timeStoppedRecording</key>
-			<real>727644757.25883496</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>7AA3E518-0EAB-4342-ADA0-15705DC0C1A6</string>
-		</dict>
-		<key>8346FBCF-EB76-4483-8C79-5940B5BDBA7D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8346FBCF-EB76-4483-8C79-5940B5BDBA7D.xcactivitylog</string>
+			<string>16A2266B-84BB-4FBE-8136-00F59E62B06F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -460,15 +208,15 @@
 			<key>signature</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644949.18471396</real>
+			<real>727656486.31129003</real>
 			<key>timeStoppedRecording</key>
-			<real>727644950.66464305</real>
+			<real>727656487.03958797</real>
 			<key>title</key>
 			<string>Build rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>8346FBCF-EB76-4483-8C79-5940B5BDBA7D</string>
+			<string>16A2266B-84BB-4FBE-8136-00F59E62B06F</string>
 		</dict>
-		<key>89FF3CBB-1C28-4328-9170-088A892DDBB9</key>
+		<key>1C5F09D6-3DA4-4A55-9EEC-EA40D6F9D5BF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -477,7 +225,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>89FF3CBB-1C28-4328-9170-088A892DDBB9.xcactivitylog</string>
+			<string>1C5F09D6-3DA4-4A55-9EEC-EA40D6F9D5BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -502,15 +250,15 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644647.5618</real>
+			<real>727656058.07494903</real>
 			<key>timeStoppedRecording</key>
-			<real>727644647.76657498</real>
+			<real>727656058.46930301</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>89FF3CBB-1C28-4328-9170-088A892DDBB9</string>
+			<string>1C5F09D6-3DA4-4A55-9EEC-EA40D6F9D5BF</string>
 		</dict>
-		<key>8D10934E-2EC2-4252-A95B-E650BA39350B</key>
+		<key>2C1584D5-50E6-4A85-86AB-AE1878AB571F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -519,7 +267,91 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8D10934E-2EC2-4252-A95B-E650BA39350B.xcactivitylog</string>
+			<string>2C1584D5-50E6-4A85-86AB-AE1878AB571F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656518.65776205</real>
+			<key>timeStoppedRecording</key>
+			<real>727656520.02037299</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>2C1584D5-50E6-4A85-86AB-AE1878AB571F</string>
+		</dict>
+		<key>2C18C258-4873-4966-B294-8C433E3FE5D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C18C258-4873-4966-B294-8C433E3FE5D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727655532.81697798</real>
+			<key>timeStoppedRecording</key>
+			<real>727655532.91603994</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>2C18C258-4873-4966-B294-8C433E3FE5D6</string>
+		</dict>
+		<key>2DDF412B-263E-4908-829D-FD02DEADE0DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DDF412B-263E-4908-829D-FD02DEADE0DB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -544,15 +376,15 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644877.58777201</real>
+			<real>727654860.99439704</real>
 			<key>timeStoppedRecording</key>
-			<real>727644878.01358104</real>
+			<real>727654861.21851003</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>8D10934E-2EC2-4252-A95B-E650BA39350B</string>
+			<string>2DDF412B-263E-4908-829D-FD02DEADE0DB</string>
 		</dict>
-		<key>967EF123-0F81-456D-AE4B-F6424961F5AD</key>
+		<key>4A76363A-4DCD-4724-866F-7748CB34A18D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -561,217 +393,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>967EF123-0F81-456D-AE4B-F6424961F5AD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>5</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644722.19009304</real>
-			<key>timeStoppedRecording</key>
-			<real>727644722.53377795</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>967EF123-0F81-456D-AE4B-F6424961F5AD</string>
-		</dict>
-		<key>9C86DBE8-8606-4D04-8EBA-C3EF7ABAAA8D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9C86DBE8-8606-4D04-8EBA-C3EF7ABAAA8D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644946.63940799</real>
-			<key>timeStoppedRecording</key>
-			<real>727644947.35204601</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>9C86DBE8-8606-4D04-8EBA-C3EF7ABAAA8D</string>
-		</dict>
-		<key>A5E30115-F826-4AA7-8F1A-AA682B96F48B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5E30115-F826-4AA7-8F1A-AA682B96F48B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727593674.86150098</real>
-			<key>timeStoppedRecording</key>
-			<real>727593676.88886905</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>A5E30115-F826-4AA7-8F1A-AA682B96F48B</string>
-		</dict>
-		<key>A9090061-D115-49A6-A0F0-BFA6CCF22904</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A9090061-D115-49A6-A0F0-BFA6CCF22904.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644690.73144901</real>
-			<key>timeStoppedRecording</key>
-			<real>727644691.20259297</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>A9090061-D115-49A6-A0F0-BFA6CCF22904</string>
-		</dict>
-		<key>CCEAC406-A05A-4848-8408-A6C8C696DD56</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CCEAC406-A05A-4848-8408-A6C8C696DD56.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>11</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>rbxfpsunlocker-osx-gui project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>rbxfpsunlocker-osx-gui</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>timeStartedRecording</key>
-			<real>727644867.85791099</real>
-			<key>timeStoppedRecording</key>
-			<real>727644868.28316796</real>
-			<key>title</key>
-			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
-			<key>uniqueIdentifier</key>
-			<string>CCEAC406-A05A-4848-8408-A6C8C696DD56</string>
-		</dict>
-		<key>F7396C4D-967C-447A-A4F2-9C3D83D1A109</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F7396C4D-967C-447A-A4F2-9C3D83D1A109.xcactivitylog</string>
+			<string>4A76363A-4DCD-4724-866F-7748CB34A18D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -796,15 +418,15 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644744.28484201</real>
+			<real>727654864.83083498</real>
 			<key>timeStoppedRecording</key>
-			<real>727644744.49560499</real>
+			<real>727654865.17927003</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>F7396C4D-967C-447A-A4F2-9C3D83D1A109</string>
+			<string>4A76363A-4DCD-4724-866F-7748CB34A18D</string>
 		</dict>
-		<key>FDC5F7FC-D72A-4A6F-9FAE-77B9278543BC</key>
+		<key>52320A0D-8CB3-4899-8AB3-918E645BEE41</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -813,7 +435,133 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FDC5F7FC-D72A-4A6F-9FAE-77B9278543BC.xcactivitylog</string>
+			<string>52320A0D-8CB3-4899-8AB3-918E645BEE41.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654782.05817294</real>
+			<key>timeStoppedRecording</key>
+			<real>727654782.42340195</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>52320A0D-8CB3-4899-8AB3-918E645BEE41</string>
+		</dict>
+		<key>55AE3771-9776-4DBC-9202-5FB79024CAE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55AE3771-9776-4DBC-9202-5FB79024CAE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656114.75230706</real>
+			<key>timeStoppedRecording</key>
+			<real>727656115.356745</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>55AE3771-9776-4DBC-9202-5FB79024CAE2</string>
+		</dict>
+		<key>55B09270-A6FB-4740-B036-F63597CE80FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55B09270-A6FB-4740-B036-F63597CE80FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656143.43422103</real>
+			<key>timeStoppedRecording</key>
+			<real>727656144.04554999</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>55B09270-A6FB-4740-B036-F63597CE80FA</string>
+		</dict>
+		<key>5801EB64-7776-48FA-AB28-005B58EA12E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5801EB64-7776-48FA-AB28-005B58EA12E3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -838,15 +586,15 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644974.03919804</real>
+			<real>727655942.40406406</real>
 			<key>timeStoppedRecording</key>
-			<real>727644974.59699798</real>
+			<real>727655942.90801203</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>FDC5F7FC-D72A-4A6F-9FAE-77B9278543BC</string>
+			<string>5801EB64-7776-48FA-AB28-005B58EA12E3</string>
 		</dict>
-		<key>FF375E23-6AF6-4A80-8BBA-2F8A47CB84CC</key>
+		<key>5BC4EDCE-42DC-44F4-993C-050CC0C90CCE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -855,7 +603,259 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FF375E23-6AF6-4A80-8BBA-2F8A47CB84CC.xcactivitylog</string>
+			<string>5BC4EDCE-42DC-44F4-993C-050CC0C90CCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654903.85889101</real>
+			<key>timeStoppedRecording</key>
+			<real>727654904.11264801</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>5BC4EDCE-42DC-44F4-993C-050CC0C90CCE</string>
+		</dict>
+		<key>680D1B4B-2509-4874-B937-3800F128EBEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>680D1B4B-2509-4874-B937-3800F128EBEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727653480.47647405</real>
+			<key>timeStoppedRecording</key>
+			<real>727653480.64601099</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>680D1B4B-2509-4874-B937-3800F128EBEC</string>
+		</dict>
+		<key>68B48F37-6A00-47FE-946B-E8E4EAC8DB47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68B48F37-6A00-47FE-946B-E8E4EAC8DB47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654792.22990203</real>
+			<key>timeStoppedRecording</key>
+			<real>727654792.81738901</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>68B48F37-6A00-47FE-946B-E8E4EAC8DB47</string>
+		</dict>
+		<key>74E93095-98CD-4477-BF80-1DE30584FDED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74E93095-98CD-4477-BF80-1DE30584FDED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656579.56561697</real>
+			<key>timeStoppedRecording</key>
+			<real>727656580.03648996</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>74E93095-98CD-4477-BF80-1DE30584FDED</string>
+		</dict>
+		<key>827CD0BE-C2AD-427A-BFD8-4C87E4CE0131</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>827CD0BE-C2AD-427A-BFD8-4C87E4CE0131.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656009.94192696</real>
+			<key>timeStoppedRecording</key>
+			<real>727656011.07032895</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>827CD0BE-C2AD-427A-BFD8-4C87E4CE0131</string>
+		</dict>
+		<key>8398DF9B-DD6A-438A-BE50-91C1B1EA37D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8398DF9B-DD6A-438A-BE50-91C1B1EA37D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654881.77745605</real>
+			<key>timeStoppedRecording</key>
+			<real>727654882.39712298</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>8398DF9B-DD6A-438A-BE50-91C1B1EA37D1</string>
+		</dict>
+		<key>86813C90-9B9A-4059-A3E9-CAB7380F7F3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86813C90-9B9A-4059-A3E9-CAB7380F7F3F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -880,13 +880,727 @@
 			<key>signature</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>timeStartedRecording</key>
-			<real>727644827.24944401</real>
+			<real>727654891.31147003</real>
 			<key>timeStoppedRecording</key>
-			<real>727644827.54978597</real>
+			<real>727654891.643682</real>
 			<key>title</key>
 			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
 			<key>uniqueIdentifier</key>
-			<string>FF375E23-6AF6-4A80-8BBA-2F8A47CB84CC</string>
+			<string>86813C90-9B9A-4059-A3E9-CAB7380F7F3F</string>
+		</dict>
+		<key>8CE845F5-847B-4C96-9303-849BFE4B9927</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CE845F5-847B-4C96-9303-849BFE4B9927.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727653636.98308098</real>
+			<key>timeStoppedRecording</key>
+			<real>727653637.58362603</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>8CE845F5-847B-4C96-9303-849BFE4B9927</string>
+		</dict>
+		<key>97A405A9-E6FA-40AF-9F61-033EEE924C33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97A405A9-E6FA-40AF-9F61-033EEE924C33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654876.33946395</real>
+			<key>timeStoppedRecording</key>
+			<real>727654876.65789104</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>97A405A9-E6FA-40AF-9F61-033EEE924C33</string>
+		</dict>
+		<key>A3CE48D2-CEB9-4692-9C61-96776F97EDFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3CE48D2-CEB9-4692-9C61-96776F97EDFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654604.01241696</real>
+			<key>timeStoppedRecording</key>
+			<real>727654604.75241303</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>A3CE48D2-CEB9-4692-9C61-96776F97EDFD</string>
+		</dict>
+		<key>A93F8A93-5CBB-4F77-B37F-DB7FFB877801</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A93F8A93-5CBB-4F77-B37F-DB7FFB877801.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656522.29584503</real>
+			<key>timeStoppedRecording</key>
+			<real>727656522.91286504</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>A93F8A93-5CBB-4F77-B37F-DB7FFB877801</string>
+		</dict>
+		<key>B24B69AE-20BD-42AF-BD3C-89F14A4CE93D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B24B69AE-20BD-42AF-BD3C-89F14A4CE93D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727645239.89412498</real>
+			<key>timeStoppedRecording</key>
+			<real>727645241.21308506</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>B24B69AE-20BD-42AF-BD3C-89F14A4CE93D</string>
+		</dict>
+		<key>B5BF32A6-89B8-453D-B970-17A3B9A900FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5BF32A6-89B8-453D-B970-17A3B9A900FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654851.42079997</real>
+			<key>timeStoppedRecording</key>
+			<real>727654851.736624</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>B5BF32A6-89B8-453D-B970-17A3B9A900FC</string>
+		</dict>
+		<key>B67C573C-F4DB-40AA-9698-4CC5E3237F40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B67C573C-F4DB-40AA-9698-4CC5E3237F40.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727655148.92959702</real>
+			<key>timeStoppedRecording</key>
+			<real>727655149.57890499</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>B67C573C-F4DB-40AA-9698-4CC5E3237F40</string>
+		</dict>
+		<key>BDA2F53C-C016-4476-802E-09F112B2A6CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDA2F53C-C016-4476-802E-09F112B2A6CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>9</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654888.04905701</real>
+			<key>timeStoppedRecording</key>
+			<real>727654888.26948702</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>BDA2F53C-C016-4476-802E-09F112B2A6CC</string>
+		</dict>
+		<key>C06B3EBF-5B2A-492F-A304-314E4FC677F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C06B3EBF-5B2A-492F-A304-314E4FC677F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654529.56547296</real>
+			<key>timeStoppedRecording</key>
+			<real>727654531.43045402</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>C06B3EBF-5B2A-492F-A304-314E4FC677F5</string>
+		</dict>
+		<key>C10BC6C7-5461-4A6A-B1B3-DE9711794626</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C10BC6C7-5461-4A6A-B1B3-DE9711794626.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656846.21245897</real>
+			<key>timeStoppedRecording</key>
+			<real>727656846.69398904</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>C10BC6C7-5461-4A6A-B1B3-DE9711794626</string>
+		</dict>
+		<key>C38852E6-5FBB-47C1-AB03-9B18292DAD66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C38852E6-5FBB-47C1-AB03-9B18292DAD66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654785.56068397</real>
+			<key>timeStoppedRecording</key>
+			<real>727654785.79026401</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>C38852E6-5FBB-47C1-AB03-9B18292DAD66</string>
+		</dict>
+		<key>CC602AB2-DAE2-4329-9AAC-3F784A974798</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC602AB2-DAE2-4329-9AAC-3F784A974798.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654936.52322102</real>
+			<key>timeStoppedRecording</key>
+			<real>727654937.00690496</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>CC602AB2-DAE2-4329-9AAC-3F784A974798</string>
+		</dict>
+		<key>D2E463F1-DF93-44FF-9398-5333C17DC803</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2E463F1-DF93-44FF-9398-5333C17DC803.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727655517.37714803</real>
+			<key>timeStoppedRecording</key>
+			<real>727655518.34763598</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>D2E463F1-DF93-44FF-9398-5333C17DC803</string>
+		</dict>
+		<key>E8F201D2-A1E4-4484-A586-58CBE4AABD18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8F201D2-A1E4-4484-A586-58CBE4AABD18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727656826.69438601</real>
+			<key>timeStoppedRecording</key>
+			<real>727656828.248294</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>E8F201D2-A1E4-4484-A586-58CBE4AABD18</string>
+		</dict>
+		<key>F1B01154-93A2-4CE4-93F4-2ABBDA856302</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1B01154-93A2-4CE4-93F4-2ABBDA856302.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727653483.94359505</real>
+			<key>timeStoppedRecording</key>
+			<real>727653484.99055898</real>
+			<key>title</key>
+			<string>Build rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>F1B01154-93A2-4CE4-93F4-2ABBDA856302</string>
+		</dict>
+		<key>FA70DF51-2FD4-4DF2-9FB8-6258C504FA14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA70DF51-2FD4-4DF2-9FB8-6258C504FA14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654912.231107</real>
+			<key>timeStoppedRecording</key>
+			<real>727654912.432513</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>FA70DF51-2FD4-4DF2-9FB8-6258C504FA14</string>
+		</dict>
+		<key>FBB541FF-D795-47A5-84C3-A7FF1822E6D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBB541FF-D795-47A5-84C3-A7FF1822E6D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rbxfpsunlocker-osx-gui project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rbxfpsunlocker-osx-gui</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>timeStartedRecording</key>
+			<real>727654926.66414595</real>
+			<key>timeStoppedRecording</key>
+			<real>727654926.92285097</real>
+			<key>title</key>
+			<string>Build for Previews rbxfpsunlocker-osx-gui</string>
+			<key>uniqueIdentifier</key>
+			<string>FBB541FF-D795-47A5-84C3-A7FF1822E6D0</string>
 		</dict>
 	</dict>
 </dict>

@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A01C1C1F2B5E21CD000847FA /* installer-remade.sh in Resources */ = {isa = PBXBuildFile; fileRef = A01C1C1E2B5E21CD000847FA /* installer-remade.sh */; };
+		A0E732482B5F267900B94EF0 /* revert.sh in Resources */ = {isa = PBXBuildFile; fileRef = A0E732472B5F267900B94EF0 /* revert.sh */; };
+		A0E7324A2B5F26AC00B94EF0 /* install.sh in Resources */ = {isa = PBXBuildFile; fileRef = A0E732492B5F26AC00B94EF0 /* install.sh */; };
 		A0FD2D282B5B527800AB0CC7 /* rbxfpsunlocker_osx_guiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FD2D272B5B527800AB0CC7 /* rbxfpsunlocker_osx_guiApp.swift */; };
 		A0FD2D2A2B5B527800AB0CC7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FD2D292B5B527800AB0CC7 /* ContentView.swift */; };
 		A0FD2D2C2B5B527900AB0CC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0FD2D2B2B5B527900AB0CC7 /* Assets.xcassets */; };
@@ -35,7 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A01C1C1E2B5E21CD000847FA /* installer-remade.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = "installer-remade.sh"; path = "../../installer-remade.sh"; sourceTree = "<group>"; };
+		A0E732472B5F267900B94EF0 /* revert.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = revert.sh; sourceTree = "<group>"; };
+		A0E732492B5F26AC00B94EF0 /* install.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = install.sh; sourceTree = "<group>"; };
 		A0FD2D242B5B527800AB0CC7 /* rbxfpsunlocker-osx-gui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rbxfpsunlocker-osx-gui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0FD2D272B5B527800AB0CC7 /* rbxfpsunlocker_osx_guiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rbxfpsunlocker_osx_guiApp.swift; sourceTree = "<group>"; };
 		A0FD2D292B5B527800AB0CC7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				A0FD2D262B5B527800AB0CC7 /* rbxfpsunlocker-osx-gui */,
-				A0FD2D382B5B527900AB0CC7 /* rbxfpsunlocker-osx-guiTests */,
 				A0FD2D422B5B527900AB0CC7 /* rbxfpsunlocker-osx-guiUITests */,
 				A0FD2D252B5B527800AB0CC7 /* Products */,
 			);
@@ -97,7 +98,9 @@
 		A0FD2D262B5B527800AB0CC7 /* rbxfpsunlocker-osx-gui */ = {
 			isa = PBXGroup;
 			children = (
-				A01C1C1E2B5E21CD000847FA /* installer-remade.sh */,
+				A0E732492B5F26AC00B94EF0 /* install.sh */,
+				A0E732472B5F267900B94EF0 /* revert.sh */,
+				A0FD2D382B5B527900AB0CC7 /* rbxfpsunlocker-osx-guiTests */,
 				A0FD2D272B5B527800AB0CC7 /* rbxfpsunlocker_osx_guiApp.swift */,
 				A0FD2D292B5B527800AB0CC7 /* ContentView.swift */,
 				A0FD2D2B2B5B527900AB0CC7 /* Assets.xcassets */,
@@ -236,8 +239,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A01C1C1F2B5E21CD000847FA /* installer-remade.sh in Resources */,
 				A0FD2D2F2B5B527900AB0CC7 /* Preview Assets.xcassets in Resources */,
+				A0E732482B5F267900B94EF0 /* revert.sh in Resources */,
+				A0E7324A2B5F26AC00B94EF0 /* install.sh in Resources */,
 				A0FD2D2C2B5B527900AB0CC7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -12,9 +12,17 @@
 		<data>
 		WuI7rB1XbK13tYiwd5JQ+XJvAWg=
 		</data>
+		<key>Resources/install.sh</key>
+		<data>
+		lRQTaeJbewBRswkeV8EbD1p2zy4=
+		</data>
 		<key>Resources/installer-remade.sh</key>
 		<data>
-		GOSpBuAKRAwyMHFH4PFEyty61m0=
+		lRQTaeJbewBRswkeV8EbD1p2zy4=
+		</data>
+		<key>Resources/revert.sh</key>
+		<data>
+		nuLeYiqS3DjkZSeLl6BbT7LQZl0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -33,11 +41,25 @@
 			uns3kPK332gEU2q3RgcWdxUcjv2Ncz+Widc/lHjCAXA=
 			</data>
 		</dict>
+		<key>Resources/install.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gjTZpzdtUR+qcDrdt78QRJpevJ2uKwSH1GGXb6ABIZU=
+			</data>
+		</dict>
 		<key>Resources/installer-remade.sh</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QgulhrJQGZZ4ylj6ce9sPVEpoIdJj0IY0KzTFns+rww=
+			gjTZpzdtUR+qcDrdt78QRJpevJ2uKwSH1GGXb6ABIZU=
+			</data>
+		</dict>
+		<key>Resources/revert.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N3DB/0CUv3WLZmxG/LAWfIpF+XnEzHyu/XW5OehVNnA=
 			</data>
 		</dict>
 	</dict>

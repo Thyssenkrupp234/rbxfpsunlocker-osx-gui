@@ -32,11 +32,19 @@
       },
       {
         "comment": "",
+        "key": "Revert install"
+      },
+      {
+        "comment": "",
+        "key": "Changes button in home page to revert button"
+      },
+      {
+        "comment": "",
         "key": "rbxfpsunlocker-osx-gui"
       },
       {
         "comment": "",
-        "key": "Version 1.0"
+        "key": "Version 0.8"
       },
       {
         "comment": "",
@@ -60,7 +68,11 @@
       },
       {
         "comment": "",
-        "key": "January 20th, 2024"
+        "key": "January 22th, 2024"
+      },
+      {
+        "comment": "",
+        "key": "Revert"
       },
       {
         "comment": "",

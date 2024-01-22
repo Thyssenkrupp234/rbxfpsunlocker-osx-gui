@@ -13,9 +13,10 @@ struct Option: Hashable {
 
 
 struct ContentView: View {
-    @State var currentOption = 1
+    @State var currentOption = 2
     @State private var useVulkan = false
     @State private var processOutput = ""
+    @State private var revertButton = false
     
     let options: [Option] = [
         .init(title: "About", imageName: "info.circle"),
@@ -31,13 +32,13 @@ struct ContentView: View {
             case 0:
                 AboutView()
             case 1:
-                HomeView(useVulkan: $useVulkan, processOutput: $processOutput)
+                HomeView(useVulkan: $useVulkan, revertButton: $revertButton, processOutput: $processOutput)
             case 2:
-                SettingsView(useVulkan: $useVulkan)
+                SettingsView(useVulkan: $useVulkan, revertButton: $revertButton)
             case 3:
                 CreditsView()
             default:
-                HomeView(useVulkan: $useVulkan, processOutput: $processOutput)
+                HomeView(useVulkan: $useVulkan, revertButton: $revertButton, processOutput: $processOutput)
             }
         }
     }
@@ -45,8 +46,8 @@ struct ContentView: View {
 
 struct HomeView: View {
     @Binding var useVulkan: Bool
+    @Binding var revertButton: Bool
     @Binding var processOutput: String
-    
     var body: some View {
         VStack {
             Image("Logo")
@@ -59,34 +60,62 @@ struct HomeView: View {
             // Button to unlock FPS
             Button(action: {
                 // Run the script
-                let scriptPath = Bundle.main.path(forResource: "installer-remade", ofType: "sh")
-                let argument = useVulkan ? "yes" : "no"
-                if let scriptPath = scriptPath {
-                    let process = Process()
-                    process.launchPath = "/usr/bin/osascript"
-                    process.arguments = ["-e", "do shell script \"sh \(scriptPath) \(argument)\" with administrator privileges"]
-                    
-                    let outputPipe = Pipe()
-                    process.standardOutput = outputPipe
+                if revertButton == false {
+                    // run main install script
+                    let scriptPath = Bundle.main.path(forResource: "install", ofType: "sh")
+                    let argument = useVulkan ? "yes" : "no"
+                    if let scriptPath = scriptPath {
+                        let process = Process()
+                        process.launchPath = "/usr/bin/osascript"
+                        process.arguments = ["-e", "do shell script \"sh \(scriptPath) \(argument)\" with administrator privileges"]
+                        
+                        let outputPipe = Pipe()
+                        process.standardOutput = outputPipe
 
-                    process.launch()
-                    process.waitUntilExit()
+                        process.launch()
+                        process.waitUntilExit()
 
-                    // Read the output data
-                    let outputData = outputPipe.fileHandleForReading.readDataToEndOfFile()
-                    if let outputString = String(data: outputData, encoding: .utf8) {
-                        processOutput = outputString
+                        // Read the output data
+                        let outputData = outputPipe.fileHandleForReading.readDataToEndOfFile()
+                        if let outputString = String(data: outputData, encoding: .utf8) {
+                            processOutput = outputString
+                        } else {
+                            processOutput = "Error: Unable to read output."
+                        }
                     } else {
-                        processOutput = "Error: Unable to read output."
+                        processOutput = "Error: install script not found in app's bundle."
                     }
                 } else {
-                    processOutput = "Error: Script not found in app's bundle."
+                    // run revert script
+                    let scriptPath = Bundle.main.path(forResource: "revert", ofType: "sh")
+                    if let scriptPath = scriptPath {
+                        let process = Process()
+                        process.launchPath = "/usr/bin/osascript"
+                        process.arguments = ["-e", "do shell script \"sh \(scriptPath)\" with administrator privileges"]
+                        
+                        let outputPipe = Pipe()
+                        process.standardOutput = outputPipe
+
+                        process.launch()
+                        process.waitUntilExit()
+
+                        // Read the output data
+                        let outputData = outputPipe.fileHandleForReading.readDataToEndOfFile()
+                        if let outputString = String(data: outputData, encoding: .utf8) {
+                            processOutput = outputString
+                        } else {
+                            processOutput = "Error: Unable to read output."
+                        }
+                    } else {
+                        processOutput = "Error: revert script not found in app bundle"
+                    }
                 }
+
             }, label: {
-                Text("Unlock FPS")
+                Text(revertButton ? "Revert" : "Unlock FPS")
                     .font(.body)
                     .fontWeight(.heavy)
-                    .foregroundColor(Color.green)
+                    .foregroundColor(revertButton ? Color.red : Color.green)
             })
             
             // Display process output
@@ -103,7 +132,7 @@ struct AboutView: View {
         VStack(alignment: .center, spacing: 8.0) {
             Text("rbxfpsunlocker-osx-gui")
                 .font(.largeTitle)
-                Text("Version 1.0")
+                Text("Version 0.8")
                 .font(.headline)
             Text("Built on Xcode:")
                 +
@@ -115,7 +144,7 @@ struct AboutView: View {
                 .font(.headline)
             Text("Build Date: ")
                 +
-                Text("January 20th, 2024")
+                Text("January 22th, 2024")
                 .font(.headline)
         }
     }
@@ -124,6 +153,7 @@ struct AboutView: View {
 
 struct SettingsView: View {
     @Binding var useVulkan: Bool
+    @Binding var revertButton: Bool
     var body: some View {
         VStack {
             Toggle(isOn: $useVulkan, label: {
@@ -140,6 +170,13 @@ struct SettingsView: View {
             Text("It is recommended to only enable this feature if FPS is not unlocked to your full refresh rate.")
                 .fontWeight(.bold)
                 .font(.footnote)
+            Toggle(isOn: $revertButton, label: {
+                Text("Revert install")
+            Text("Changes button in home page to revert button")
+                    .font(.footnote)
+                    .foregroundColor(Color.white)
+            })
+            .padding(.top, 10.0)
         }
     }
 }

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <array>
 	<string>XCTest</string>
-	<string>SwiftUI</string>
 	<string>rbxfpsunlocker</string>
+	<string>SwiftUI</string>
 </array>
 </plist>

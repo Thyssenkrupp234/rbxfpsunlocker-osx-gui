@@ -185,6 +185,7 @@ struct CreditsView: View {
         VStack {
             Text("Scripting and Functionality: Lincoln Muller")
             Text("App Icon: Nolan Krahn")
+            Text("Original fps unlocker script: github/lanylow")
         }
     }
 }

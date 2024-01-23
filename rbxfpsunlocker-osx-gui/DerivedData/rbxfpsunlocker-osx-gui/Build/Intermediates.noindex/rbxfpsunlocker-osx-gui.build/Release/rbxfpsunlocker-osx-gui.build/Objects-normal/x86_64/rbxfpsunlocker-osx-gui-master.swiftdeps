@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "69058102f0e1825c32a5f787ba458caa67f8a1350e81f2b5324b9f2680c12d75"
+build_start_time: [1705987487, 34605000]
+build_end_time: [1705987491, 887006000]
+inputs:
+  ? "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/DerivedData/rbxfpsunlocker-osx-gui/Build/Intermediates.noindex/rbxfpsunlocker-osx-gui.build/Release/rbxfpsunlocker-osx-gui.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1705987486, 907763497]
+  "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/ContentView.swift": [1705987264, 505182181]
+  ? "/Users/lincolnmuller/Documents/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker-osx-gui/rbxfpsunlocker_osx_guiApp.swift"
+  : [1705854329, 580229395]

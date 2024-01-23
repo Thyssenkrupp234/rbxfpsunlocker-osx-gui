@@ -10,6 +10,7 @@ This is my first ever swift/swiftUI app, feel free to make a PR to make my code 
 - Unlock Roblox FPS infinitely-*ish* (actually 10000) (Vulkan)
 - Native app interface built with modern SwiftUI
 - Supports macOS 11.0+
+- Revert unlocker at any time
 - **Soon:** Auto-install unlocker post-roblox update
 
 ## Setup
